@@ -427,10 +427,10 @@
 	  activityId="forbiddenViewActivityId"
 	  pattern="org.eclipse.ui.ide/org.eclipse.ui.views.ResourceNavigator">
 	</activityPatternBinding>
-	<activityPatternBinding
+	<!--activityPatternBinding
 	  activityId="forbiddenViewActivityId"
 	  pattern="org.eclipse.ui.navigator.resources/org.eclipse.ui.navigator.ProjectExplorer">
-	</activityPatternBinding>
+	</activityPatternBinding-->
 	<activityPatternBinding
 	  activityId="forbiddenViewActivityId"
 	  pattern="org.eclipse.equinox.p2.ui.sdk/org.eclipse.equinox.p2.ui.sdk.update">
