@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bioclipse business UI contributions
+Bundle-SymbolicName: net.bioclipse.ui.business.contributions
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: net.bioclipse.ui.business;bundle-version="2.5.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
