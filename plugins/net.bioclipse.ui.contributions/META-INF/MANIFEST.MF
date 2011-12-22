@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Bioclipse UI contributions
-Bundle-SymbolicName: net.bioclipse.ui.contributions
+Bundle-SymbolicName: net.bioclipse.ui.contributions;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Fragment-Host: net.bioclipse.ui;bundle-version="2.5.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
